@@ -1,4 +1,4 @@
-# UnityMotorbikeController
+# Learning Journal - Ahmet Caya
 There isn't much to say. is a possible implementation of a controller for a motorcycle in Unity 3D
 
 If you like, help me to add the animations of a player above the bike, the lights and more.
