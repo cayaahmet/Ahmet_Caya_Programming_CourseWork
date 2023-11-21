@@ -7,13 +7,7 @@ I want to make a delivery mission type of prototype where the player must go a g
 
 I will start this process by creating a script to spawn 3D cubes(areas) around the map to act as “delivery destinations”. This process will be carried out by the player clicking a button to get more deliveries. 
 
-I used the code in this tutorial and added my own button click mechanic into it.
-https://www.youtube.com/watch?v=IbiwNnOv5So
-![Picture 1](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/da944c42-aa37-45ab-9137-209d532fa1b2)
 
-
-Every time he gets to the delivery area, he will earn an extra point and the delivery area will be destroyed so he will have to click the button to create more deliveries for himself.
-Here is the first part of my prototype working.
 
 
 
