@@ -15,6 +15,7 @@ Learned how to do timer with Time.deltaTime.
 Learned to use Invoke
 
 
+Add Main Menu and Options
 
 
 
