@@ -7,18 +7,33 @@ public class DeliveryPointSpawner : MonoBehaviour
 {
     [SerializeField] public GameObject deliveryPoint;
 
-    [SerializeField] private Button deliveryActiveButton;
+    
+
+    public int limit = 4;
+
+    int points;
 
     void Start()
     {
-        Button btn = deliveryActiveButton.GetComponent<Button>();
-        btn.onClick.AddListener(TaskOnClick);
+        
+        InvokeRepeating("SpawnDeliveryPoint", 5f, 5f);
     }
 
-    void TaskOnClick()
+
+    void SpawnDeliveryPoint()
     {
-        Vector3 randomSpawnPoint = new Vector3(Random.Range(-10, 11), -1, Random.Range(-10, 11));
-        Instantiate(deliveryPoint, randomSpawnPoint, Quaternion.identity);
+        if (points < limit)
+        {
+            Vector3 randomSpawnPoint = new Vector3(Random.Range(-10, 11), -1, Random.Range(-10, 11));
+            Instantiate(deliveryPoint, randomSpawnPoint, Quaternion.identity);
+            points++;
+        }
+
+    }
+
+    public void Pickup()
+    {
+        points--;
     }
     
 }
