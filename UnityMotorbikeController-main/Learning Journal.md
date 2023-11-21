@@ -8,6 +8,12 @@ I want to make a delivery mission type of prototype where the player must go a g
 I will start this process by creating a script to spawn 3D cubes(areas) around the map to act as “delivery destinations”. This process will be carried out by the player clicking a button to get more deliveries. 
 
 
+Learned how to use UnityEngine.Random number randomizer for cash earned.
+
+Learned how to do timer with Time.deltaTime.
+
+Learned to use Invoke
+
 
 
 
