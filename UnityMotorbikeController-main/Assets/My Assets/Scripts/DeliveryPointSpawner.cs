@@ -24,7 +24,7 @@ public class DeliveryPointSpawner : MonoBehaviour
     {
         if (points < limit)
         {
-            Vector3 randomSpawnPoint = new Vector3(Random.Range(-10, 11), -1, Random.Range(-10, 11));
+            Vector3 randomSpawnPoint = new Vector3(Random.Range(-10, 11), (float)-1.25, Random.Range(-10, 11));
             Instantiate(deliveryPoint, randomSpawnPoint, Quaternion.identity);
             points++;
         }

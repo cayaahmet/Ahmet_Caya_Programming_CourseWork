@@ -7,17 +7,22 @@ using UnityEngine.UI;
 
 public class PointsSystem : MonoBehaviour
 {
+    public TimerUI timerUI;
+    
     public int pointsNumber = 0;
-    [SerializeField] public Text pointsText;
+    [SerializeField] public TMP_Text pointsText;
 
     public int deliviriesNumber = 0;
-    [SerializeField] public Text deliviriesText;
+    [SerializeField] public TMP_Text deliviriesText;
 
     [SerializeField] public GameObject deliveryPoint;
 
-    [SerializeField] Text highScoreText;
+    [SerializeField] TMP_Text highScoreText;
 
     public DeliveryPointSpawner spawner;
+
+    [SerializeField] GameObject extraTimeText;
+    [SerializeField] GameObject extraTimeText1;
 
     private void Start()
     {
@@ -25,8 +30,8 @@ public class PointsSystem : MonoBehaviour
         deliviriesText.GetComponent<Text>();
         CheckHighScore();
         UpdateHighScoreText();
-
-
+        extraTimeText.SetActive(false);
+        extraTimeText1.SetActive(false);
     }
 
     private void Update()
@@ -43,16 +48,16 @@ public class PointsSystem : MonoBehaviour
             
             pointsNumber += UnityEngine.Random.Range(5, 16);
             deliviriesNumber++;
-            
+            timerUI.timer += UnityEngine.Random.Range(5, 16);
+            extraTimeText.SetActive(true);
+            extraTimeText1.SetActive(true);
+            Invoke("SetFalse", 1.0f);
+
+
             Destroy(other.gameObject);
             CheckHighScore();
             UpdateHighScoreText(); 
-            
-
         }
-        
-
-        
     }
 
     void CheckHighScore()
@@ -61,11 +66,19 @@ public class PointsSystem : MonoBehaviour
         {
             PlayerPrefs.SetInt("High Score: ", pointsNumber);
         }
-
     }
 
     void UpdateHighScoreText()
     {
         highScoreText.text = $"High Score:  {PlayerPrefs.GetInt("High Score: ",pointsNumber)}";
+    }
+
+    void SetFalse()
+
+    {
+
+        extraTimeText.SetActive(false);
+        extraTimeText1.SetActive(false);
+
     }
 }
