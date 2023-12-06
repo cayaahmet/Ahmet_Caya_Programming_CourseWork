@@ -9,14 +9,14 @@ public class DeliveryPointSpawner : MonoBehaviour
 
     
 
-    public int limit = 4;
+    public int limit = 10;
 
     int points;
 
     void Start()
     {
         
-        InvokeRepeating("SpawnDeliveryPoint", 5f, 5f);
+        InvokeRepeating("SpawnDeliveryPoint", 0f, 2f);
     }
 
 
@@ -24,7 +24,7 @@ public class DeliveryPointSpawner : MonoBehaviour
     {
         if (points < limit)
         {
-            Vector3 randomSpawnPoint = new Vector3(Random.Range(-10, 11), (float)-1.25, Random.Range(-10, 11));
+            Vector3 randomSpawnPoint = new Vector3(Random.Range(-100, 100), (float)-1.25, Random.Range(-100, 100));
             Instantiate(deliveryPoint, randomSpawnPoint, Quaternion.identity);
             points++;
         }

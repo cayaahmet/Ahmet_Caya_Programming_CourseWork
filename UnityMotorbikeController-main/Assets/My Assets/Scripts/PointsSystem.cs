@@ -21,8 +21,8 @@ public class PointsSystem : MonoBehaviour
 
     public DeliveryPointSpawner spawner;
 
-    [SerializeField] GameObject extraTimeText;
-    [SerializeField] GameObject extraTimeText1;
+    [SerializeField] GameObject rewardText;
+    [SerializeField] GameObject rewardText1;
 
     private void Start()
     {
@@ -30,8 +30,8 @@ public class PointsSystem : MonoBehaviour
         deliviriesText.GetComponent<Text>();
         CheckHighScore();
         UpdateHighScoreText();
-        extraTimeText.SetActive(false);
-        extraTimeText1.SetActive(false);
+        rewardText.SetActive(false);
+        rewardText1.SetActive(false);
     }
 
     private void Update()
@@ -49,8 +49,8 @@ public class PointsSystem : MonoBehaviour
             pointsNumber += UnityEngine.Random.Range(5, 16);
             deliviriesNumber++;
             timerUI.timer += UnityEngine.Random.Range(5, 16);
-            extraTimeText.SetActive(true);
-            extraTimeText1.SetActive(true);
+            rewardText.SetActive(true);
+            rewardText1.SetActive(true);
             Invoke("SetFalse", 1.0f);
 
 
@@ -77,8 +77,8 @@ public class PointsSystem : MonoBehaviour
 
     {
 
-        extraTimeText.SetActive(false);
-        extraTimeText1.SetActive(false);
+        rewardText.SetActive(false);
+        rewardText1.SetActive(false);
 
     }
 }
