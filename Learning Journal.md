@@ -1,5 +1,5 @@
 # Learning Journal - Ahmet Caya
-![Schermata 2021-04-10 alle 00 04 53](https://user-images.githubusercontent.com/38981338/114245889-a0ae0980-9991-11eb-8262-21200902ae04.png)
+
 
 I’ve started by researching bicycle/motorcycle physics assets because I want to do a delivery game prototype. I can add components such making deliveries, earning cash, timer and getting to certain locations to pick boxes etc. I've found a free online asset that contains a motorcycle physics asset/system which I am going to use and modify.
 
