@@ -9,7 +9,7 @@ I discovered a neat tool in Unity that helps decide the amount of cash players e
 <br/><br/>
 I also tackled the challenge of creating a timer using something called Time.deltaTime. This timer was super helpful because it allowed me to keep track of time within the game and control various actions and events, enhancing the overall gameplay experience.
 <br/><br/>
-Another exciting learning involved using Invoke to make things appear randomly on the game map. These "delivery points" pop up after a certain time and only a specific number of times, adding an extra layer of surprise and difficulty for the players.
+Another exciting learning involved using Invoke and InvokeRepeating to make things appear randomly on the game map. These "delivery points" pop up after a certain time and only a specific number of times, adding an extra layer of surprise and difficulty for the players.
 <br/><br/>
 Expanding the game's functionality, I successfully added essential screens like the Main Menu, Options, Character Selection, and Game Over screens. This made the game more user-friendly and easier to navigate, ensuring players can enjoy the game without any hassle.
 <br/><br/>
