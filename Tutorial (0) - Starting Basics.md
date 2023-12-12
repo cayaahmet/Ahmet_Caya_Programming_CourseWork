@@ -20,7 +20,9 @@ And we want to delete the "Main Camera" that was included with the prefab
 Instead we drag the "Main Camera" that we have in our scene to the prefab
 <br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/4d83ffe0-6a5e-439c-8751-4169d4a5a85d)
+<br/><br/>
+And then rotate and place the camera in a way where the player can clearly see ahead of him and the motorcycle
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/fea352e0-9a52-4584-b886-accfae5d8393)
 
-
-
+And thats it, you can play and drive around with the motorcyle. Now we are ready to start programming our interactive prototype!
 
