@@ -26,3 +26,4 @@ And then rotate and place the camera in a way where the player can clearly see a
 
 And thats it, you can play and drive around with the motorcyle. Now we are ready to start programming our interactive prototype!
 
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/646d5c74-9a1b-480a-9abd-9ce903d354cd)
