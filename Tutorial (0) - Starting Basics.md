@@ -18,6 +18,7 @@ Great, now that we got the ground for our player we can finally put our player d
 And we want to delete the "Main Camera" that was included with the prefab 
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/e2fcea8e-4029-4b79-ab6b-3905bed176fe)
 Instead we drag the "Main Camera" that we have in our scene to the prefab
+<br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/4d83ffe0-6a5e-439c-8751-4169d4a5a85d)
 
 
