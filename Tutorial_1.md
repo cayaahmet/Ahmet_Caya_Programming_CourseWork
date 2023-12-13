@@ -26,6 +26,7 @@ Reset it's position to be 0,0,0 on the xyz axises. And scale it bigger by 5,5,5.
 
 <br/><br/>
 Now you can create a material on by right-clicking on an empty spot in the "Project" section. I will create a transparent green material to assign to the sphere.
+<br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/6672b07d-5978-4777-ad40-e0e20ec1a078)
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/4ba0ec82-80d4-4da7-84e8-93313790de82)
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/c1826643-b81c-49f9-b26a-218cb2c73255)
