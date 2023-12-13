@@ -36,3 +36,8 @@ Dont forget to tick the "Is Trigger" option in the object's collider.
 Now we can name the game object "DeliveryPointPrefab" and drag and drop from the hierarchy into the "Project" section to create a prefab.
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/f15e58fc-f6ec-4294-9275-5757c4b024f2)
 Now we drag the prefab into our DeliveryPointSpawnper Script and everything should be working perfectly now with delivery points spawning across the map.
+<br/><br/>
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/984f3332-ad7b-46f3-8668-00117229980c)
+<br/><br/>
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/f9133977-2916-4e8b-a075-fb2ec3786ea2)
+And thats our first tutorial finished. Well done!
