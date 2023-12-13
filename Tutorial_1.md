@@ -5,9 +5,12 @@ Let's start by creating a script called  "DeliveryPointSpawner". We can create a
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/abd78101-3a54-4f97-b8c0-93a27389ac21)
 <br/><br/>
 Now open the script and lets create 3 variables that we will need in order to spawn delivery points around the map:
+<br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/18397308-dfaa-43e3-8d31-31785cf7b019)
+<br/><br/>
 We will use "void Start" and 2 custom functions which will be called "SpawnDeliveryPoint" and "PickUp"
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/a9246625-3b24-4ae8-9236-2aa77ffad123)
+
 We use the "InvokeRepeating" command to spawn the delivery points every 2 seconds with the first one being spawnped instantly.
 We also need instantiate to spawn the prefab clones around the scene in the hierarchy.
 
@@ -20,6 +23,8 @@ We can do that by right-clicking the hierarchy and select 3D Object>Sphere
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/3df07a01-3f5d-4c22-a850-6d9d48e5a1cb)
 Reset it's position to be 0,0,0 on the xyz axises. And scale it bigger by 5,5,5. It will look something like this
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/1e87405e-5bcc-4592-8bd4-1ec66958eaf1)
+
+<br/><br/>
 Now you can create a material on by right-clicking on an empty spot in the "Project" section. I will create a transparent green material to assign to the sphere.
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/6672b07d-5978-4777-ad40-e0e20ec1a078)
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/4ba0ec82-80d4-4da7-84e8-93313790de82)
