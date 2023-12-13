@@ -31,7 +31,7 @@ public class PauseUI : MonoBehaviour
         });
         retryButton.onClick.AddListener(() =>
         {
-            SceneManager.LoadScene("Motorbike");
+            SceneManager.LoadScene("GameScene");
             Time.timeScale = 1f;
         });
     }

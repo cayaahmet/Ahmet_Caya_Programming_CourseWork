@@ -82,6 +82,6 @@ public class CharacterSelectSceneUI : MonoBehaviour
     private void SelectButton()
     {
         PlayerPrefs.SetInt("CharacterIndex", characterIndex);
-        SceneManager.LoadScene("Motorbike");
+        SceneManager.LoadScene("GameScene");
     }
 }
