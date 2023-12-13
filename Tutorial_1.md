@@ -24,6 +24,9 @@ Now you can create a material on by right-clicking on an empty spot in the "Proj
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/6672b07d-5978-4777-ad40-e0e20ec1a078)
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/4ba0ec82-80d4-4da7-84e8-93313790de82)
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/c1826643-b81c-49f9-b26a-218cb2c73255)
+Dont forget to tick the "Is Trigger" option in the object's collider.
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/77e9d5fe-46c5-40b9-8b97-1b280ca839ab)
+
 <br/><br/>
 Now we can name the game object "DeliveryPointPrefab" and drag and drop from the hierarchy into the "Project" section to create a prefab.
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/f15e58fc-f6ec-4294-9275-5757c4b024f2)
