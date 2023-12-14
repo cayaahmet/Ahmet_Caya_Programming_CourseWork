@@ -3,7 +3,7 @@ Download this asset: https://github.com/ArcaDone/UnityMotorbikeController
 <br/><br/>
 Creating the scene:
 <br/><br/>
-Here is the emppty scene we have
+Here is the empty scene we have
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/5cbfca96-1a70-45e4-bc27-0a1de066f537)
 <br/><br/>
 We need to add a plane that will act as our ground for the player. To do this right-click in the hierachy and select 3D Object>Plane
