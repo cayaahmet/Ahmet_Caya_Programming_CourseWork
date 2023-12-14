@@ -27,4 +27,17 @@ We will start with our "PointsSystem" script. Here are the namespaces we will ne
 Now copy all of these variables and functions which we will need for our systems to function.
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/090ab406-e4a5-4828-b21a-41eaa541cb1a)
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/29b16047-9aa9-495d-b200-2625d6f4aab2)
+<br/><br/>
+That's it for our "PointsSystem" script and now we will move on to our "TimerUI" script.
+<br/><br/>
+Here are the namespaces we will need for this script:
+<br/><br/>
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/f7a271d9-2360-431a-8cc6-ac6ccc31b922)
+This time we will also use "UnityEngine.SceneManagement" as we will do a "Game Over Screen" for the player when the timer ends so that the player can choose to back to main menu or restart the level.
+<br/><br/>
+Here is our public class for our timer system script:
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/62ffe77e-fb2b-4130-be32-f87ba5a8fad7)
+<br/><br/>
+
+
 
