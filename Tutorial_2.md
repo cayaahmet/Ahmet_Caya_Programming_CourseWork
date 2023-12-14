@@ -18,4 +18,5 @@ Here is how that will look.
 After doing so we will start creating the 2 scripts that we need.
 <br/><br/>
 Now create 2 C# scripts one called "PointsSystem" and the other called "TimerUI".
+<br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/75474ae4-b38c-43aa-bc2b-c36c6afd10a0)
