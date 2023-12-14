@@ -38,7 +38,16 @@ This time we will also use "UnityEngine.SceneManagement" as we will do a "Game O
 <br/><br/>
 Here is our public class for our timer system script:
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/193e4646-8058-469b-9e7b-d24f2534ea50)
+We also have some extra code in there that we will use shortly for our "Game Over Screen".
 <br/><br/>
+And now lets go back to our scene as we have to attach the stuff that we have referenced in the script for the system to work.
+<br/><br/>
+Attach the "PointsSystem" to our player. And drag and drop the references that the script is asking for from our Canvas.
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/bf57fdf5-4836-4414-b7a3-6b949c4219e1)
+<br/><br/>
+And for our "TimerUI" script, we will attach that to the "TimerUI" empty game object that we've created in the canvas:
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/11643e88-1874-4b50-bd06-4a5cdcfd07f9)
+
 
 
 
