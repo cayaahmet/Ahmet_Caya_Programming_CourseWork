@@ -13,7 +13,7 @@ In the "PointsUI" game object that we created we have to create 2 image backgrou
 For the "RewardText" and "RewardText1" write "Time increased" and "Well done" in their text as these will act us reward pop ups to give the player a sense of achivement when they collect a delivery as well as make them earn more time.
 <br/><br/>
 Here is how that will look.
-![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/086b1b86-756d-443e-b724-c045ed0f1345)
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/7c1c181a-e4e9-4d11-bbc4-b7bd11480f53)
 <br/><br/>
 After doing so we will start creating the 2 scripts that we need.
 <br/><br/>
