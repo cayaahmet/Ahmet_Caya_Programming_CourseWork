@@ -56,6 +56,7 @@ Firstly we need to create a box collider for our player:
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/4d884259-c565-46dd-85d2-111c791cc3d8)
 <br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/04b6f39f-b71e-4ddf-adfa-c9a864ab2228)
+<br/><br/>
 That size or a similar size will do fine, just make sure that the collider is not touching the floor.
 <br/><br/>
 After that we will assign our player the tag "Player" in the inspector.
@@ -77,6 +78,9 @@ Let's start by creating a empty game object called "GameOverUI" in our Canvas:
 <br/><br/>
 Add one background that will cover the whole screen, one text for the "Game Over" text and then 2 buttons one for "retry" which will act as the as the restart button and then one to go to the main menu.
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/1ce057c7-926d-4127-9e53-a813f1fdf474)
+<br/><br/>
+Now we can assign the references to our "TimerUI" script in the "TimerUI" game object in the canvas:
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/90e95845-9aa0-4f20-91f9-1f48168d6db9)
 
 
 
