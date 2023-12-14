@@ -20,3 +20,8 @@ After doing so we will start creating the 2 scripts that we need.
 Now create 2 C# scripts one called "PointsSystem" and the other called "TimerUI".
 <br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/75474ae4-b38c-43aa-bc2b-c36c6afd10a0)
+<br/><br/>
+We will start with our "PointsSystem" script. Here are the namespaces we will need on the top of our script:
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/2a9091b8-6ad2-4154-b41c-7b1ca48cea69)
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/8f17d8b2-aa6c-4fcd-b584-2108e6598ccd)
+
