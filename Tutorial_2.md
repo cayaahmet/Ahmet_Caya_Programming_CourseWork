@@ -60,6 +60,7 @@ Firstly we need to create a box collider for our player:
 That size or a similar size will do fine, just make sure that the collider is not touching the floor.
 <br/><br/>
 After that we will assign our player the tag "Player" in the inspector.
+<br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/4215836b-29c8-4ff1-be4b-84e8ab171717)
 <br/><br/>
 And do the same for our "DeliveryPointPrefab" and create a new tag called "Points".
