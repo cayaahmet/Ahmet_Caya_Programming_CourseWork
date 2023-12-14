@@ -47,6 +47,27 @@ Attach the "PointsSystem" to our player. And drag and drop the references that t
 <br/><br/>
 And for our "TimerUI" script, we will attach that to the "TimerUI" empty game object that we've created in the canvas:
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/11643e88-1874-4b50-bd06-4a5cdcfd07f9)
+You can leave the "Game Over UI" game object variable and "Pause UI Parent" game object variable empty for now as we will use them when we create our game over screen and pause system.
+<br/><br/>
+Now before we try to see if our system works we have to some stuff for our player and the delivery point for the system to work and function without any problems.
+<br/><br/>
+Firstly we need to create a box collider for our player:
+<br/><br/>
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/4d884259-c565-46dd-85d2-111c791cc3d8)
+<br/><br/>
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/04b6f39f-b71e-4ddf-adfa-c9a864ab2228)
+That size or a similar size will do fine, just make sure that the collider is not touching the floor.
+<br/><br/>
+After that we will assign our player the tag "Player" in the inspector.
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/4215836b-29c8-4ff1-be4b-84e8ab171717)
+<br/><br/>
+And do the same for our "DeliveryPointPrefab" and create a new tag called "Points".
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/dc4fbef1-75fc-4784-bc03-b0a2e814502b)
+
+<br/><br/>
+Now we go and try our play mode to make sure everything is working fine.
+
+
 
 
 
