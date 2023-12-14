@@ -74,6 +74,8 @@ And yeah everything is working perfectly apart from the 2 errors we are getting 
 So, let's start creating our game over screen in the canvas.
 <br/><br/>
 Let's start by creating a empty game object called "GameOverUI" in our Canvas:
+<br/><br/>
+Add one background that will cover the whole screen, one text for the "Game Over" text and then 2 buttons one for "retry" which will act as the as the restart button and then one to go to the main menu.
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/1ce057c7-926d-4127-9e53-a813f1fdf474)
 
 
