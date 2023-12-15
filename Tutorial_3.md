@@ -51,5 +51,8 @@ It's finally time to do characters for our player. We will do one motorcycle and
 Start making both characters with cubes and spheres. Here is how I did mine:
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/948f7162-936e-4e83-866f-3c86a9a435f1)
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/28cc409b-58ab-427b-9029-68f067bc0862)
-
-
+<br/><br/>
+And now disable both game objects like this:
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/c9d32323-115b-4db3-b153-a2f864ceacac)
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/ced3ee7c-61fa-483f-96d7-26d29d24dd18)
+<br/><br/>
