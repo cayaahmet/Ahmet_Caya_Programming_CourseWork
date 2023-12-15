@@ -12,6 +12,7 @@ Add the scenes to the "Build Settings".
 <br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/b6e23d08-27bd-4e49-8337-294fe43605cf)
 <br/><br/>
+You can create the black background effect by going in the camera in the hierarchy and pressing Clear Flags and putting the option as "Solid Colour" and then changing the background color to black.
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/a5007b03-2a43-475b-88dc-a5bc2bb52d56)
 <br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/b33a470b-b4f0-40c7-ba32-3c5f75fb177f)
