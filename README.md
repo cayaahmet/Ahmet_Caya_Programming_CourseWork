@@ -17,5 +17,13 @@ By the end of this series, you will learn how to:
 <br/><br/>
 By the end of the 4 tutorials, you should have something similar to this:
 
+
+
+
+https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/988cab2c-4f69-4358-9043-8983976cc5c1
+
+
+
+
 <br/><br/>
 Let's start!
