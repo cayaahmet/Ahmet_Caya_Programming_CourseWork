@@ -14,7 +14,7 @@ I've found an free online asset that contains a motorcycle controller asset whic
 <br/><br/>
 14/11/2023
 <br/><br/>
-I discovered a neat tool in Unity that helps decide the amount of cash players earn randomly. This feature injected an element of surprise and excitement into the game, making it more enjoyable and unpredictable.
+I discovered a neat tool in Unity that helps decide the amount of cash players earn randomly. This feature injected an element of surprise and excitement into the game, making it more enjoyable and unpredictable. (UnityEngine.Random)
 <br/><br/>
 21/11/2023
 <br/><br/>
@@ -26,7 +26,7 @@ Another exciting learning involved using Invoke and InvokeRepeating to make thin
 <br/><br/>
 05/12/2023
 <br/><br/>
-Expanding the game's functionality, I successfully added essential screens like the Main Menu, Options, Character Selection, and Game Over screens. This made the game more user-friendly and easier to navigate, ensuring players can enjoy the game without any hassle.
+Expanding the game's functionality, I successfully learned how to add essential screens like the Main Menu, Options, Character Selection, and Game Over screens. This made the game more user-friendly and easier to navigate, ensuring players can enjoy the game without any hassle.
 <br/><br/>
 12/12/2023
 <br/><br/>
