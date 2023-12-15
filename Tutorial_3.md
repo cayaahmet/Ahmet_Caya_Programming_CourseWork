@@ -16,7 +16,11 @@ You can create the black background effect by going in the camera in the hierarc
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/a5007b03-2a43-475b-88dc-a5bc2bb52d56)
 <br/><br/>
 For the Main Menu create a canvas and an empty game object inside it called "MainMenuUI".
+<br/><br/>
+Inside this empty game object we need 1 text UI for the title and 2 buttons, the play button will take the player to the character selection screen. And the quit button will quit the game.
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/b33a470b-b4f0-40c7-ba32-3c5f75fb177f)
+<br/><br/>
+Now, lets create a script called MainMenuUI and write this code.
 <br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/c323a583-083a-467d-aea5-09c6d70b2a55)
 
