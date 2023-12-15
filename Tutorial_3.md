@@ -43,5 +43,13 @@ Now we can create our script for our character selection screen and call it "Cha
 And go back and attach this script to the empty game object we created that is called "CharacterSelectSceneUI"
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/4cd746aa-d40a-47be-9953-5dcca9108ef8)
 <br/><br/>
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/345b95ac-d74e-430e-bcc0-a927e2a7c7c0)
+<br/><br/>
+
+It's finally time to do characters for our player. We will do one motorcycle and one taxi which the player will be able to choose from.
+<br/><br/>
+Start making both characters with cubes and spheres. Here is how I did mine:
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/948f7162-936e-4e83-866f-3c86a9a435f1)
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/28cc409b-58ab-427b-9029-68f067bc0862)
 
 
