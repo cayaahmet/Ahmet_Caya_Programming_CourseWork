@@ -14,5 +14,5 @@ Add the scenes to the "Build Settings".
 <br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/b33a470b-b4f0-40c7-ba32-3c5f75fb177f)
 <br/><br/>
-![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/82a8589f-a81f-4b1d-a1e1-30f5687ef284)
+
 
