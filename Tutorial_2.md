@@ -71,6 +71,7 @@ Now we go and try our play mode to make sure everything is working fine.
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/60ae150e-7bc7-4eb4-acac-3ba8e93cce45)
 <br/><br/>
 And yeah everything is working perfectly apart from the 2 errors we are getting that are for the "PauseUI" and "Game Over Screen" that we will work on now. We will do the pause system and PauseUI in the 4th tutorial. However, the game will still work fine without any problems. Now lets do our "Game Over Screen" for our player.
+<br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/b104ef9c-fd9b-4a8c-8020-1ffb1b911e68)
 <br/><br/>
 So, let's start creating our game over screen in the canvas.
