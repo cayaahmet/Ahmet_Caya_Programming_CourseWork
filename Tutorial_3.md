@@ -23,5 +23,11 @@ Inside this empty game object we need 1 text UI for the title and 2 buttons, the
 Now, lets create a script called MainMenuUI and write this code.
 <br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/c323a583-083a-467d-aea5-09c6d70b2a55)
+<br/><br/>
+Attach the code to your empty game object called MainMenuUI in the canvas and drag and drop the references needed.
+<br/><br/>
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/b6b471d5-8dcf-408f-8df0-a3e17732838f)
+<br/><br/>
+Great, now thats all ready so we can move onto our character selection scene.
 
 
