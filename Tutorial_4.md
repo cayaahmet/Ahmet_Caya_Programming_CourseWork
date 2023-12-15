@@ -27,8 +27,11 @@ We also need to the PauseUIParent in the TimerUI script as shown:
 <br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/204e2df9-b984-4cbf-aace-2eeef29c791e)
 <br/><br/>
-And now everything should be all set. We can go to our Main Menu and give it a try!
+Time to try the pause system and yeah its working!
 <br/><br/>
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/93dcfc6e-4cf0-4c36-bd0d-d3476edc5949)
+<br/><br/>
+And now everything should be all set. We can go to our Main Menu and give it a try!
 That's all our tutorials done and everything working perfectly, thanks!
 <br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/897a45b4-dd7c-4ce8-a3bb-c1093c4f6b0b)
