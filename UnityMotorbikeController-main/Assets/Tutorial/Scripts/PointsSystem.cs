@@ -15,8 +15,6 @@ public class PointsSystem : MonoBehaviour
     public int deliviriesNumber = 0;
     [SerializeField] public TMP_Text deliviriesText;
 
-    //[SerializeField] public GameObject deliveryPoint;
-
     [SerializeField] TMP_Text highScoreText;
 
     public DeliveryPointSpawner spawner;
@@ -53,7 +51,6 @@ public class PointsSystem : MonoBehaviour
             rewardText1.SetActive(true);
             Invoke("SetFalse", 1.0f);
 
-
             Destroy(other.gameObject);
             CheckHighScore();
             UpdateHighScoreText(); 
@@ -74,11 +71,8 @@ public class PointsSystem : MonoBehaviour
     }
 
     void SetFalse()
-
     {
-
         rewardText.SetActive(false);
         rewardText1.SetActive(false);
-
     }
 }
