@@ -18,3 +18,11 @@ We will need these namespaces for our script as we will need to access the UI an
 And then write this code:
 <br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/d5862396-7fa0-44ed-93d5-ba226bb2a1bc)
+<br/><br/>
+We can attach this script to the "PauseUIParent" and drag and drop the references.
+<br/><br/>
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/4730f6c9-51bd-4b72-b43b-18c468e7a665)
+<br/><br/>
+We also need to the PauseUIParent in the TimerUI script as shown:
+<br/><br/>
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/204e2df9-b984-4cbf-aace-2eeef29c791e)
