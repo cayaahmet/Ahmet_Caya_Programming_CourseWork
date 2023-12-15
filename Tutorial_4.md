@@ -15,7 +15,7 @@ We will need these namespaces for our script as we will need to access the UI an
 <br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/3efa12ff-22e5-4d26-bc41-6f7a14ab4a37)
 <br/><br/>
-And then write this code:
+And then we have to write this code, when the player presses "Escape" the pause menu will come up and the time will freeze so that the timer wont still be going on and the player's movement will stop where they were.
 <br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/d5862396-7fa0-44ed-93d5-ba226bb2a1bc)
 <br/><br/>
