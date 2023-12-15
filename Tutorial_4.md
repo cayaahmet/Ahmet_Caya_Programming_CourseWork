@@ -32,9 +32,10 @@ Time to try the pause system and yeah its working!
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/93dcfc6e-4cf0-4c36-bd0d-d3476edc5949)
 <br/><br/>
 And now everything should be all set. We can go to our Main Menu and give it a try!
-That's all our tutorials done and everything working perfectly, thanks!
+That's all our tutorials done and everything working perfectly.
 <br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/897a45b4-dd7c-4ce8-a3bb-c1093c4f6b0b)
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/0e3ea9a4-ca68-44fb-bec4-6aa92bf515f9)
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/00e4ef1d-ee16-4777-ac5b-d87f2f46c997)
 
+Thanks for following along with me!
