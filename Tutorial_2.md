@@ -83,6 +83,10 @@ Add one background that will cover the whole screen, one text for the "Game Over
 <br/><br/>
 Now we can assign the references to our "TimerUI" script in the "TimerUI" game object in the canvas:
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/90e95845-9aa0-4f20-91f9-1f48168d6db9)
+<br/><br/>
+For the "Pause UI Parent" we will create an empty object for now so that we can run the game. For the game over screen to work, we have to add our scene to the "Build Settings" which can be found in the File window on top left. Don't forget to name your screen "GameScene".
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/029a3de3-9b9f-4ed4-ab50-ca26d95620d6)
+
 
 
 
