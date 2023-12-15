@@ -40,3 +40,8 @@ Now we can create our script for our character selection screen and call it "Cha
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/485f85ba-7919-43a4-ba17-569ff222458b)
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/8a89a276-82fe-424c-a4ed-6517e3759670)
 
+And go back and attach this script to the empty game object we created that is called "CharacterSelectSceneUI"
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/4cd746aa-d40a-47be-9953-5dcca9108ef8)
+<br/><br/>
+
+
