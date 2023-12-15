@@ -56,3 +56,11 @@ And now disable both game objects like this:
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/c9d32323-115b-4db3-b153-a2f864ceacac)
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/ced3ee7c-61fa-483f-96d7-26d29d24dd18)
 <br/><br/>
+And now we will have to go back to the game scene and add our characters.
+Add inside our player in the hierarchy and then disable them
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/ad86bf94-92d0-47bf-bacc-a09606209603)
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/7eebbabc-e830-4d04-9ad6-786c9c1b035f)
+<br/><br/>
+And now create a script called "BikeActivator" and write this code:
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/845859e0-6898-4af8-a65e-ba79a2a45fe9)
+
