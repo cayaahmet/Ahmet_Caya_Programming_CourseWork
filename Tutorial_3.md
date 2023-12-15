@@ -63,4 +63,19 @@ Add inside our player in the hierarchy and then disable them
 <br/><br/>
 And now create a script called "BikeActivator" and write this code:
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/845859e0-6898-4af8-a65e-ba79a2a45fe9)
-
+<br/><br/>
+Now attach the script to the player as seen and drag and drop our character prefabs in this order:
+<br/><br/>
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/86ce38b0-20cc-42af-be39-132ce654a0a5)
+<br/><br/>
+Great now everything should be working, however the motorcycle that came with the asset is still there so we will just hide it by disabling it's mesh renderers.
+<br/><br/>
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/21fefab0-cf0f-4354-a2dd-82b0c6bfee5e)
+<br/><br/>
+After doing that to every mesh renderer, we will go back to main menu and try our code.
+<br/><br/>
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/709fa07d-d613-4b4f-9c9c-1bed2c81f11e)
+<br/><br/>
+And yes everything works with main menu and character selection screen working perfectly!
+<br/><br/>
+Tutorial 3 is finished so we can move onto tutorial 4!
