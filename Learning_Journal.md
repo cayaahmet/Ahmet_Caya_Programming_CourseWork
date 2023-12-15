@@ -1,5 +1,9 @@
 # Learning Journal - Ahmet Caya
 
+24/10/2023
+<br/><br/>
+Watch tutorials and learn how to create a github account and repository
+<br/><br/>
 31/10/2023
 <br/><br/>
 I want to make a delivery simulation game with 2 characters; taxi and motorcyle. I’ve started by researching motorcycle controoler asset. I will add components such making deliveries, earning points, timer and getting to certain locations to get the points etc.
