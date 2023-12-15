@@ -7,7 +7,6 @@ using UnityEngine.UI;
 
 public class CharacterSelectSceneUI : MonoBehaviour
 {
-
     public Button selectButton;
     public Button rightButton;
     public Button leftButton;
@@ -17,7 +16,6 @@ public class CharacterSelectSceneUI : MonoBehaviour
     private int characterCount;
     private int characterIndex = 0;
     
-    // Start is called before the first frame update
     void Start()
     {
         characterCount = charactersTransform.childCount;
@@ -29,12 +27,6 @@ public class CharacterSelectSceneUI : MonoBehaviour
         rightButton.onClick.AddListener(OnClickRightButton);
         leftButton.onClick.AddListener(OnClickLeftButton);
         selectButton.onClick.AddListener(SelectButton);
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 
     private void DeactivateCharacters()
@@ -57,11 +49,11 @@ public class CharacterSelectSceneUI : MonoBehaviour
         {
             characterIndex++;
         }
-
         GameObject currentCharacter = charactersTransform.GetChild(characterIndex).gameObject;
         currentCharacter.SetActive(true);
         characterName.text = currentCharacter.name;
     }
+
     private void OnClickLeftButton()
     {
         charactersTransform.GetChild(characterIndex).gameObject.SetActive(false);

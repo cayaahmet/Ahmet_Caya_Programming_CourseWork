@@ -457,7 +457,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7404216117461691755}
   m_Layer: 0
-  m_Name: Motorcycle
+  m_Name: taxi
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

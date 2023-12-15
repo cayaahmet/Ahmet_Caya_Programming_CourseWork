@@ -11,13 +11,10 @@ public class PauseUI : MonoBehaviour
     [SerializeField] private Button retryButton;
     [SerializeField] GameObject pauseUI;
 
-    // Start is called before the first frame update
     void Start()
     {
         pauseUI.SetActive(false);
 
-        
-        
         resumeButton.onClick.AddListener(() =>
         {
             pauseUI.SetActive(false);
@@ -36,7 +33,6 @@ public class PauseUI : MonoBehaviour
         });
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (Input.GetKey(KeyCode.Escape))
