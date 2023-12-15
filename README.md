@@ -16,6 +16,6 @@ By the end of this series, you will learn how to:
 - Game over screen system
 <br/><br/>
 By the end of the 4 tutorials, you should have something similar to this:
-https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/98e34dd3-7ae7-4538-b9b5-a5d012365d81
+https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/23155b0c-c012-4eb8-9f4b-9945281afef5
 <br/><br/>
 Let's start!
