@@ -88,6 +88,8 @@ For the "Pause UI Parent" we will create an empty object for now so that we can 
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/029a3de3-9b9f-4ed4-ab50-ca26d95620d6)
 <br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/c8e4261b-3cd9-4ba0-9849-3370e766302d)
+<br/><br/>
+And everything is working perfectly fine, now we can move onto tutorial 3!
 
 
 
