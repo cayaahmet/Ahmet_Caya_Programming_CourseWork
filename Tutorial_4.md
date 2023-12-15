@@ -28,3 +28,10 @@ We also need to the PauseUIParent in the TimerUI script as shown:
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/204e2df9-b984-4cbf-aace-2eeef29c791e)
 <br/><br/>
 And now everything should be all set. We can go to our Main Menu and give it a try!
+<br/><br/>
+That's all our tutorials done and everything working perfectly, thanks!
+<br/><br/>
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/897a45b4-dd7c-4ce8-a3bb-c1093c4f6b0b)
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/0e3ea9a4-ca68-44fb-bec4-6aa92bf515f9)
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/00e4ef1d-ee16-4777-ac5b-d87f2f46c997)
+
