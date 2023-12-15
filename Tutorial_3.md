@@ -29,5 +29,14 @@ Attach the code to your empty game object called MainMenuUI in the canvas and dr
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/b6b471d5-8dcf-408f-8df0-a3e17732838f)
 <br/><br/>
 Great, now thats all ready so we can move onto our character selection scene.
+<br/><br/>
+Create a canvas and create the game objects needed shown in the picture:
+<br/><br/>
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/1a44fa44-b1f7-4e55-8e2c-62f76ef2a11f)
+<br/><br/>
+Now we can create our script for our character selection screen and call it "CharacterSelectSceneUI".
 
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/d7b90a5e-2ad2-4dd5-8c1b-35520c40de04)
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/485f85ba-7919-43a4-ba17-569ff222458b)
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/8a89a276-82fe-424c-a4ed-6517e3759670)
 
