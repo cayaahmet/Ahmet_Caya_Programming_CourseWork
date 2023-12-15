@@ -15,6 +15,7 @@ Add the scenes to the "Build Settings".
 You can create the black background effect by going in the camera in the hierarchy and pressing Clear Flags and putting the option as "Solid Colour" and then changing the background color to black.
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/a5007b03-2a43-475b-88dc-a5bc2bb52d56)
 <br/><br/>
+For the Main Menu create a canvas and an empty game object inside it called "MainMenuUI".
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/b33a470b-b4f0-40c7-ba32-3c5f75fb177f)
 <br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/c323a583-083a-467d-aea5-09c6d70b2a55)
