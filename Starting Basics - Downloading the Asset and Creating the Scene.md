@@ -1,4 +1,4 @@
-# Starting Basics - Downloading the Asset and creating the scene
+# Starting Basics - Downloading the Asset and reating the scene
 Download this asset: https://github.com/ArcaDone/UnityMotorbikeController
 <br/><br/>
 Creating the scene:
