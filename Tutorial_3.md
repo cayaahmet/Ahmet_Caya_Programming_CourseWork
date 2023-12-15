@@ -8,6 +8,9 @@ And create another one called "CharacterSelectScene".
 <br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/22fbf996-2eba-4964-93f1-c74ca60d5345)
 <br/><br/>
+Add the scenes to the "Build Settings".
+<br/><br/>
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/b6e23d08-27bd-4e49-8337-294fe43605cf)
 
 
 
