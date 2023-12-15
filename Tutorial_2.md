@@ -86,6 +86,9 @@ Now we can assign the references to our "TimerUI" script in the "TimerUI" game o
 <br/><br/>
 For the "Pause UI Parent" we will create an empty object for now so that we can run the game. For the game over screen to work, we have to add our scene to the "Build Settings" which can be found in the File window on top left. Don't forget to name your screen "GameScene".
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/029a3de3-9b9f-4ed4-ab50-ca26d95620d6)
+<br/><br/>
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/c8e4261b-3cd9-4ba0-9849-3370e766302d)
+
 
 
 
