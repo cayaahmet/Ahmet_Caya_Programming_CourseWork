@@ -11,6 +11,7 @@ And create another one called "CharacterSelectScene".
 Add the scenes to the "Build Settings".
 <br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/b6e23d08-27bd-4e49-8337-294fe43605cf)
-
+<br/><br/>
+![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/b33a470b-b4f0-40c7-ba32-3c5f75fb177f)
 
 
