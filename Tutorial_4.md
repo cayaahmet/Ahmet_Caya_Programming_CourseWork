@@ -26,3 +26,5 @@ We can attach this script to the "PauseUIParent" and drag and drop the reference
 We also need to the PauseUIParent in the TimerUI script as shown:
 <br/><br/>
 ![image](https://github.com/cayaahmet/Ahmet_Caya_Programming_CourseWork/assets/125205290/204e2df9-b984-4cbf-aace-2eeef29c791e)
+<br/><br/>
+And now everything should be all set. We can go to our Main Menu and give it a try!
