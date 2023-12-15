@@ -16,6 +16,6 @@ By the end of this series, you will learn how to:
 - Game over screen system
 <br/><br/>
 By the end of the 4 tutorials, you should have something similar to this:
-https://youtu.be/avd24HIr-IE
+
 <br/><br/>
 Let's start!
